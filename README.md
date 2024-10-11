@@ -1,3 +1,3 @@
 # Another Project 
 
-This is another project 2.
+This is another project 2
